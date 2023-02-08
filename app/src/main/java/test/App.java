@@ -5,7 +5,7 @@ package test;
 
 public class App {
     public String getGreeting() {
-        return null;
+        return "Hi!";
     }
 
     public static void main(String[] args) {
