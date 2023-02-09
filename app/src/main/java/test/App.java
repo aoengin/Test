@@ -5,10 +5,10 @@ package test;
 
 public class App {
     public String getGreeting() {
-        return null;
+        return "Hi";
     }
 
     public static void main(String[] args) {
-        System.out.printl(new App().getGreeting());
+        System.out.println(new App().getGreeting());
     }
 }
